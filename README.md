@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1sevgi1
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning PHP, Python
-- 💞️ I’m looking to collaborate with companies working in the field of Cyber Security 
+- 👀 Interested in Cyber Security
+- 🌱 I’m currently learning KQL, Python
 - 📫 How to reach me via LinkedIn or email: https://www.linkedin.com/in/s-sevgi-kilic-68939a1a3/  - sumeyyeklc076@gmail.com
 
 <!---
